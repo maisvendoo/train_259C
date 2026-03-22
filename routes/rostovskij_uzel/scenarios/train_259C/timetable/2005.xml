@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config>
+
+	<Station>
+		<Name>Староминская-Т2</Name>
+		<DepartureTime>08:30</DepartureTime>
+		<TargetTraj>track_strm_p4</TargetTraj>
+		<TargetCoord>20</TargetCoord>		
+		<RemovalTraj>track_orlk-strm_22-nd</RemovalTraj>
+	</Station>
+
+	<Station>
+		<Name>Орловка-Кубанск</Name>
+		<ArrivalTime>08:54</ArrivalTime>			
+		<DepartureTime>08:54</DepartureTime>
+		<TargetTraj>track_orlk_p2</TargetTraj>
+		<TargetCoord>500.0</TargetCoord>
+		<ApproachTraj>track_orlk-strm_2-4</ApproachTraj>
+		<RemovalTraj>track_vasp-orlk_28-nd</RemovalTraj>
+	</Station>
+
+	<Station>
+		<Name>Вас.-Петровская</Name>
+		<ArrivalTime>09:20</ArrivalTime>			
+		<DepartureTime>09:38</DepartureTime>
+		<TargetTraj>track_vasp_p4</TargetTraj>
+		<TargetCoord>20.0</TargetCoord>
+		<ApproachTraj>track_vasp-orlk_2-4</ApproachTraj>
+		<RemovalTraj>track_vis-vasp_12-nd</RemovalTraj>
+	</Station>
+
+	<Station>
+		<Name>Высочино</Name>
+		<ArrivalTime>09:54</ArrivalTime>			
+		<DepartureTime>09:54</DepartureTime>
+		<TargetTraj>track_vis_p2</TargetTraj>
+		<TargetCoord>20.0</TargetCoord>
+		<ApproachTraj>track_vis-vasp_2-4</ApproachTraj>
+		<RemovalTraj>track_7km-vis_6-nd</RemovalTraj>
+	</Station>
+
+	<Station>
+		<Name>БП 7км</Name>
+		<ArrivalTime>10:00</ArrivalTime>			
+		<DepartureTime>10:00</DepartureTime>
+		<TargetTraj>track_7km_5-6</TargetTraj>
+		<TargetCoord>20.0</TargetCoord>
+		<ApproachTraj>track_7km-vis_2-4</ApproachTraj>
+		<RemovalTraj>track_bat-7kmx2_1-ns</RemovalTraj>
+	</Station>
+
+	<Station>
+		<Name>Батайск</Name>
+		<ArrivalTime>10:09</ArrivalTime>			
+		<TargetTraj>track_bat_p1t</TargetTraj>
+		<TargetCoord>20.0</TargetCoord>
+		<ApproachTraj>track_bat-7kmx2_n-2</ApproachTraj>		
+	</Station>	
+
+</Config>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config>
+
+	<Station>
+		<Name>Сальск</Name>
+		<DepartureTime>08:45</DepartureTime>
+		<TargetTraj>track_slsk_76-chm1a</TargetTraj>
+		<TargetCoord>260.0</TargetCoord>		
+		<RemovalTraj>track_169km-slsk_pch-ch</RemovalTraj>
+	</Station>
+
+	<Station>
+		<Name>Трубецкая</Name>
+		<ArrivalTime>09:02</ArrivalTime>			
+		<DepartureTime>09:03</DepartureTime>
+		<TargetTraj>track_trbc_p1</TargetTraj>
+		<TargetCoord>355</TargetCoord>
+		<ApproachTraj>track_trbc-169km_pn-pch</ApproachTraj>
+		<RemovalTraj>track_clna-trbc_pch-ch</RemovalTraj>
+	</Station>
+
+	<Station>
+		<Name>Целина</Name>
+		<ArrivalTime>09:22</ArrivalTime>			
+		<DepartureTime>09:28</DepartureTime>
+		<TargetTraj>track_clna_p1-15</TargetTraj>
+		<TargetCoord>270</TargetCoord>
+		<ApproachTraj>track_clna-trbc_pn-pch</ApproachTraj>
+		<RemovalTraj>track_atmn-clna_pn-pch</RemovalTraj>
+	</Station>
+
+	<Station>
+		<Name>Атаман</Name>
+		<ArrivalTime>09:52</ArrivalTime>			
+		<DepartureTime>09:53</DepartureTime>
+		<TargetTraj>track_atmn_p1-23</TargetTraj>
+		<TargetCoord>330</TargetCoord>
+		<ApproachTraj>track_atmn-clna_pn-pch</ApproachTraj>
+		<RemovalTraj>track_mcht-atmn_pch-ch</RemovalTraj>
+	</Station>
+
+	<Station>
+		<Name>Мечетинская</Name>
+		<ArrivalTime>10:18</ArrivalTime>			
+		<DepartureTime>10:19</DepartureTime>
+		<TargetTraj>track_mcht_p2</TargetTraj>
+		<TargetCoord>175</TargetCoord>
+		<ApproachTraj>track_mcht-atmn_pn-pch</ApproachTraj>
+		<RemovalTraj>track_zern-mcht_pch-ch</RemovalTraj>
+	</Station>
+
+	<Station>
+		<Name>Зерноград</Name>
+		<ArrivalTime>10:31</ArrivalTime>			
+		<DepartureTime>10:32</DepartureTime>
+		<TargetTraj>track_zern_p2</TargetTraj>
+		<TargetCoord>100</TargetCoord>
+		<ApproachTraj>track_zern-mcht_pn-pch</ApproachTraj>
+		<RemovalTraj>track_kag-zern_pch-ch</RemovalTraj>
+	</Station>
+
+	<Station>
+		<Name>Кагальник</Name>
+		<ArrivalTime>10:44</ArrivalTime>			
+		<DepartureTime>10:45</DepartureTime>
+		<TargetTraj>track_kag_p1</TargetTraj>
+		<TargetCoord>260</TargetCoord>
+		<ApproachTraj>track_kag-zern_pn-pch</ApproachTraj>
+		<RemovalTraj>track_knrm-kag_pch-ch</RemovalTraj>
+	</Station>
+
+	<Station>
+		<Name>Конармейская</Name>
+		<ArrivalTime>10:59</ArrivalTime>			
+		<DepartureTime>11:00</DepartureTime>
+		<TargetTraj>track_knrm_10-p1</TargetTraj>
+		<TargetCoord>305</TargetCoord>
+		<ApproachTraj>track_knrm-kag_pn-pch</ApproachTraj>
+		<RemovalTraj>track_mbat-knrm_pch-ch</RemovalTraj>
+	</Station>
+
+	<Station>
+		<Name>Мокрый Батай</Name>
+		<ArrivalTime>11:14</ArrivalTime>			
+		<DepartureTime>11:15</DepartureTime>
+		<TargetTraj>track_mbat_p2</TargetTraj>
+		<TargetCoord>20</TargetCoord>
+		<ApproachTraj>track_mbat-knrm_pn-pch</ApproachTraj>
+		<RemovalTraj>track_bat-mbat_pch-ch</RemovalTraj>
+	</Station>
+
+	<Station>
+		<Name>Батайск</Name>
+		<ArrivalTime>11:37</ArrivalTime>			
+		<DepartureTime>11:39</DepartureTime>
+		<TargetTraj>track_bat_p2</TargetTraj>
+		<TargetCoord>20</TargetCoord>
+		<ApproachTraj>track_bat-mbat_pns-pch</ApproachTraj>
+		<RemovalTraj>track_zar-1352km_1-chd</RemovalTraj>
+	</Station>
+
+	<Station>
+		<Name>Ростов Пригородный</Name>
+		<ArrivalTime>11:57</ArrivalTime>			
+		<TargetTraj>track_rg_p21v</TargetTraj>
+		<TargetCoord>20</TargetCoord>
+		<ApproachTraj>track_zar-1352km_n-1</ApproachTraj>		
+	</Station>
+
+</Config>

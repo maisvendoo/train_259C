@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config>
+
+	<Station>
+		<Name>Ростов Главный</Name>
+		<DepartureTime>08:10</DepartureTime>
+		<TargetTraj>track_rg_p2</TargetTraj>
+		<TargetCoord>580.0</TargetCoord>		
+		<RemovalTraj>track_zar-1352km_nd-2</RemovalTraj>
+	</Station>
+
+	<Station>
+		<Name>Заречная</Name>
+		<ArrivalTime>08:13</ArrivalTime>			
+		<DepartureTime>08:13</DepartureTime>
+		<TargetTraj>track_zar_p2</TargetTraj>
+		<TargetCoord>500.0</TargetCoord>		
+	</Station>
+
+	<Station>
+		<Name>Батайск</Name>
+		<ArrivalTime>08:28</ArrivalTime>			
+		<DepartureTime>08:28</DepartureTime>
+		<TargetTraj>track_bat_p1</TargetTraj>
+		<TargetCoord>500.0</TargetCoord>
+		<ApproachTraj>track_zar-1352km_nd-2</ApproachTraj>
+		<RemovalTraj>track_bat-7km_nb-2</RemovalTraj>
+	</Station>
+
+	<Station>
+		<Name>БП 7км</Name>
+		<ArrivalTime>08:35</ArrivalTime>			
+		<DepartureTime>08:35</DepartureTime>
+		<TargetTraj>track_7km_7-n1</TargetTraj>
+		<TargetCoord>500.0</TargetCoord>
+		<ApproachTraj>track_bat-7km_2-1</ApproachTraj>
+		<RemovalTraj>track_7km-vis_chd-5</RemovalTraj>
+	</Station>
+
+	<Station>
+		<Name>Высочино</Name>
+		<ArrivalTime>08:41</ArrivalTime>			
+		<DepartureTime>08:41</DepartureTime>
+		<TargetTraj>track_vis_p1a</TargetTraj>
+		<TargetCoord>500.0</TargetCoord>
+		<ApproachTraj>track_7km-vis_3-1</ApproachTraj>
+		<RemovalTraj>track_vis-vasp_chd-11</RemovalTraj>
+	</Station>
+
+	<Station>
+		<Name>Вас.-Петровская</Name>
+		<ArrivalTime>08:51</ArrivalTime>			
+		<DepartureTime>08:51</DepartureTime>
+		<TargetTraj>track_vasp_p1a</TargetTraj>
+		<TargetCoord>500.0</TargetCoord>
+		<ApproachTraj>track_vis-vasp_3-1</ApproachTraj>
+		<RemovalTraj>track_vasp-orlk_chd-27</RemovalTraj>
+	</Station>
+
+	<Station>
+		<Name>Орловка-Кубанская</Name>
+		<ArrivalTime>09:12</ArrivalTime>			
+		<DepartureTime>09:12</DepartureTime>
+		<TargetTraj>track_orlk_p1a</TargetTraj>
+		<TargetCoord>500.0</TargetCoord>
+		<ApproachTraj>track_vasp-orlk_3-1</ApproachTraj>
+		<RemovalTraj>track_orlk-strm_21-19</RemovalTraj>
+	</Station>
+
+	<Station>
+		<Name>Староминская-Т2</Name>
+		<ArrivalTime>09:34</ArrivalTime>			
+		<TargetTraj>track_strm_p2</TargetTraj>
+		<TargetCoord>825.0</TargetCoord>
+		<ApproachTraj>track_orlk-strm_3-1</ApproachTraj>		
+	</Station>
+
+</Config>
