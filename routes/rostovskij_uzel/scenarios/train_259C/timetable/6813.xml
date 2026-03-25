@@ -10,12 +10,22 @@
 	</Station>
 
 	<Station>
+		<Name>169 км</Name>
+		<ArrivalTime>08:53</ArrivalTime>			
+		<DepartureTime>08:53</DepartureTime>
+		<TargetTraj>track_169km_p1</TargetTraj>
+		<TargetCoord>15</TargetCoord>
+		<ApproachTraj>track_169km-slsk_n-pn</ApproachTraj>
+		<RemovalTraj>track_trbc-169km_pch-ch</RemovalTraj>
+	</Station>
+
+	<Station>
 		<Name>Трубецкая</Name>
 		<ArrivalTime>09:02</ArrivalTime>			
 		<DepartureTime>09:03</DepartureTime>
 		<TargetTraj>track_trbc_p1</TargetTraj>
 		<TargetCoord>355</TargetCoord>
-		<ApproachTraj>track_trbc-169km_pn-pch</ApproachTraj>
+		<ApproachTraj>track_trbc-169km_n-pn</ApproachTraj>
 		<RemovalTraj>track_clna-trbc_pch-ch</RemovalTraj>
 	</Station>
 
