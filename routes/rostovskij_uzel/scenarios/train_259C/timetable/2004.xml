@@ -21,7 +21,7 @@
 		<Name>Батайск</Name>
 		<ArrivalTime>09:03</ArrivalTime>			
 		<DepartureTime>09:03</DepartureTime>
-		<TargetTraj>track_bat_p1</TargetTraj>
+		<TargetTraj>track_bat_p9</TargetTraj>
 		<TargetCoord>500.0</TargetCoord>
 		<ApproachTraj>track_zar-1352km_nd-2</ApproachTraj>
 		<RemovalTraj>track_bat-7km_nb-2</RemovalTraj>

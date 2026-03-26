@@ -1,4 +1,5 @@
 setTime("08:09:30")
+--setTime("09:30")
 
 train1 = TrainData.new()
 train1.name = "259C"
@@ -22,6 +23,7 @@ train3 = TrainData.new()
 train3.name = "134"
 train3.config = "vl60pk-1543-T65_17"
 train3.traj = "track_rg_p2"
+--train3.traj = "track_orlk-strm_5-3"
 train3.coord = 580
 train3.dir = 1
 train3.auto = true
