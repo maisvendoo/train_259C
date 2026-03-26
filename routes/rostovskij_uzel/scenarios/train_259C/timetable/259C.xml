@@ -73,7 +73,7 @@
 		<Name>Ростов Главный</Name>
 		<ArrivalTime>10:20</ArrivalTime>			
 		<DepartureTime>10:48</DepartureTime>
-		<TargetTraj>track_rg_p1</TargetTraj>
+		<TargetTraj>track_rg_p2</TargetTraj>
 		<TargetCoord>80.0</TargetCoord>		
 	</Station>
 

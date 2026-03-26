@@ -24,7 +24,7 @@
 		<ArrivalTime>09:02</ArrivalTime>			
 		<DepartureTime>09:03</DepartureTime>
 		<TargetTraj>track_trbc_p1</TargetTraj>
-		<TargetCoord>355</TargetCoord>
+		<TargetCoord>650</TargetCoord>
 		<ApproachTraj>track_trbc-169km_n-pn</ApproachTraj>
 		<RemovalTraj>track_clna-trbc_pch-ch</RemovalTraj>
 	</Station>
@@ -35,7 +35,7 @@
 		<DepartureTime>09:28</DepartureTime>
 		<TargetTraj>track_clna_p1-15</TargetTraj>
 		<TargetCoord>270</TargetCoord>
-		<ApproachTraj>track_clna-trbc_pn-pch</ApproachTraj>
+		<ApproachTraj>track_clna-trbc_n-pn</ApproachTraj>
 		<RemovalTraj>track_atmn-clna_pn-pch</RemovalTraj>
 	</Station>
 
@@ -54,7 +54,7 @@
 		<ArrivalTime>10:18</ArrivalTime>			
 		<DepartureTime>10:19</DepartureTime>
 		<TargetTraj>track_mcht_p2</TargetTraj>
-		<TargetCoord>175</TargetCoord>
+		<TargetCoord>275</TargetCoord>
 		<ApproachTraj>track_mcht-atmn_pn-pch</ApproachTraj>
 		<RemovalTraj>track_zern-mcht_pch-ch</RemovalTraj>
 	</Station>

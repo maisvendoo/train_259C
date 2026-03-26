@@ -23,7 +23,7 @@
 		<Name>Вас.-Петровская</Name>
 		<ArrivalTime>09:20</ArrivalTime>			
 		<DepartureTime>09:38</DepartureTime>
-		<TargetTraj>track_vasp_p4</TargetTraj>
+		<TargetTraj>track_vasp_p2a</TargetTraj>
 		<TargetCoord>20.0</TargetCoord>
 		<ApproachTraj>track_vasp-orlk_2-4</ApproachTraj>
 		<RemovalTraj>track_vis-vasp_12-nd</RemovalTraj>
