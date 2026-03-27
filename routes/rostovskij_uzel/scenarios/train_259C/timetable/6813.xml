@@ -24,7 +24,7 @@
 		<ArrivalTime>09:02</ArrivalTime>			
 		<DepartureTime>09:03</DepartureTime>
 		<TargetTraj>track_trbc_p1</TargetTraj>
-		<TargetCoord>650</TargetCoord>
+		<TargetCoord>600</TargetCoord>
 		<ApproachTraj>track_trbc-169km_n-pn</ApproachTraj>
 		<RemovalTraj>track_clna-trbc_pch-ch</RemovalTraj>
 		<IsRightPlatform>1</IsRightPlatform>
