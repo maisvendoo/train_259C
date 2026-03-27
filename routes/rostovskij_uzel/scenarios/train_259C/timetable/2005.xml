@@ -54,7 +54,7 @@
 		<ArrivalTime>10:09</ArrivalTime>			
 		<TargetTraj>track_bat_p1t</TargetTraj>
 		<TargetCoord>20.0</TargetCoord>
-		<ApproachTraj>track_bat-7kmx2_n-2</ApproachTraj>		
+		<ApproachTraj>track_bat-7kmx2_2-1</ApproachTraj>		
 	</Station>	
 
 </Config>
