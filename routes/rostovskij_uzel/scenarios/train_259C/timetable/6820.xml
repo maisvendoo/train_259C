@@ -5,7 +5,7 @@
 		<Name>Ростов Пригородный</Name>
 		<DepartureTime>08:36</DepartureTime>
 		<TargetTraj>track_rg_p21v</TargetTraj>
-		<TargetCoord>260.0</TargetCoord>		
+		<TargetCoord>270.0</TargetCoord>		
 		<RemovalTraj>track_zar_p2</RemovalTraj>
 		<IsLeftPlatform>1</IsLeftPlatform>
 	</Station>
@@ -15,8 +15,9 @@
 		<ArrivalTime>08:41</ArrivalTime>			
 		<DepartureTime>08:42</DepartureTime>
 		<TargetTraj>track_zar_p2</TargetTraj>
-		<TargetCoord>500/TargetCoord>		
+		<TargetCoord>1600/TargetCoord>		
 		<RemovalTraj>track_zar-1352km_nd-2</RemovalTraj>
+		<IsLeftPlatform>1</IsLeftPlatform>
 	</Station>
 
 	<Station>
@@ -27,6 +28,7 @@
 		<TargetCoord>500.0</TargetCoord>
 		<ApproachTraj>track_zar-1352km_nd-2</ApproachTraj>
 		<RemovalTraj>track_bat-mbat_ns-pns</RemovalTraj>
+		<IsRightPlatform>1</IsRightPlatform>
 	</Station>
 
 	<Station>
@@ -34,9 +36,10 @@
 		<ArrivalTime>09:20</ArrivalTime>			
 		<DepartureTime>09:21</DepartureTime>
 		<TargetTraj>track_mbat_p2</TargetTraj>
-		<TargetCoord>20</TargetCoord>
+		<TargetCoord>400</TargetCoord>
 		<ApproachTraj>track_bat-mbat_pch-ch</ApproachTraj>
 		<RemovalTraj>track_mbat-knrm_n-pn</RemovalTraj>
+		<IsLeftPlatform>1</IsLeftPlatform>
 	</Station>
 
 	<Station>

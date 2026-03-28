@@ -64,7 +64,7 @@ train6.dir = 1
 train6.auto = true
 setTrain(train6)
 
--- -- vehicle #123
+-- vehicle #123
 train7 = TrainData.new()
 train7.name = "2005"
 train7.config = "vl60k-1737-frEmpties"
@@ -73,3 +73,13 @@ train7.coord = 20
 train7.dir = -1
 train7.auto = true
 setTrain(train7)
+
+-- vehicle #174
+train8 = TrainData.new()
+train8.name = "6820"
+train8.config = "ra3-061"
+train8.traj = "track_rg_p21v"
+train8.coord = 268
+train8.dir = 1
+train8.auto = true
+setTrain(train8)
