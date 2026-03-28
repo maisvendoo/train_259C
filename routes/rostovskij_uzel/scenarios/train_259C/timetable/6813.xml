@@ -7,6 +7,7 @@
 		<TargetTraj>track_slsk_76-chm1a</TargetTraj>
 		<TargetCoord>260.0</TargetCoord>		
 		<RemovalTraj>track_169km-slsk_pch-ch</RemovalTraj>
+		<IsRightPlatform>1</IsRightPlatform>
 	</Station>
 
 	<Station>
@@ -89,11 +90,11 @@
 		<Name>Конармейская</Name>
 		<ArrivalTime>10:59</ArrivalTime>			
 		<DepartureTime>11:00</DepartureTime>
-		<TargetTraj>track_knrm_10-p1</TargetTraj>
+		<TargetTraj>track_knrm_p2</TargetTraj>
 		<TargetCoord>430</TargetCoord>
 		<ApproachTraj>track_knrm-kag_pn-pch</ApproachTraj>
 		<RemovalTraj>track_mbat-knrm_pch-ch</RemovalTraj>
-		<IsLeftPlatform>1</IsLeftPlatform>
+		<IsRightPlatform>1</IsRightPlatform>
 	</Station>
 
 	<Station>

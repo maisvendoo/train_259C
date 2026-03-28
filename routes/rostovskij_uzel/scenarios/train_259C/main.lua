@@ -1,5 +1,5 @@
 setTime("08:09:30")
---setTime("09:30")
+--setTime("10:58")
 
 -- vehicle #0
 train1 = TrainData.new()
@@ -38,6 +38,8 @@ train4.name = "6813"
 train4.config = "ra3-024"
 train4.traj = "track_slsk_76-chm1a"
 train4.coord = 260
+--train4.traj = "track_knrm_p2"
+--train4.coord = 432
 train4.dir = -1
 train4.auto = true
 setTrain(train4)
